@@ -2,6 +2,8 @@
 
 Final group project for CSCE604151 (Embedded Systems): An implementation of a mock smart home security system that detects burglars using an Arduino Uno and an ESP8266.
 
+![image](https://github.com/spacesick/smart-home-security/assets/70625944/864a9f2a-9194-4193-a1bd-0b8fa556a4b1)
+
 ## Group project members
 
 - Fathan Muhammad
